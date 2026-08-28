@@ -20,5 +20,7 @@ public class LargestOfTwo {
         }else {
             System.out.println("second number is greater : ");
         }
+
+        sc.close();
     }
 }

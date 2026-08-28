@@ -25,6 +25,6 @@ public class ConditionalStatements {
             System.out.println("you are not an adult");
         }
 
-
+     sc.close();
     }
 }

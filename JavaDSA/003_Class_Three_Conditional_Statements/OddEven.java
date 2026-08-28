@@ -13,5 +13,7 @@ public class OddEven {
 
             System.out.println("the number is Odd");
         }
+
+        sc.close();
     }
 }

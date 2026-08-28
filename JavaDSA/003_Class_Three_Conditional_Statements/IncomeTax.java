@@ -25,5 +25,7 @@ public class IncomeTax {
             System.out.println("the Income Tax percentage is 30%");
             System.out.println("The Income Tax amount is " + tax + " LPA");
         }
+
+        sc.close();;
     }
 }

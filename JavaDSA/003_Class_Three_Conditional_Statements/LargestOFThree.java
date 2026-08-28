@@ -27,5 +27,7 @@ public class LargestOFThree {
         } else {
             System.out.println("three number (c) is greatest : ");
         }
+
+        sc.close();
     }
 }

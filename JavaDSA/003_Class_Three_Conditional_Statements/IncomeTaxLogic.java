@@ -56,5 +56,7 @@ public class IncomeTaxLogic {
             // Print the calculated tax amount
             System.out.println("The Income Tax amount is " + tax + " LPA");
         }
+
+        sc.close();
     }
 }

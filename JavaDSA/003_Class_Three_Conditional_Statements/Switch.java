@@ -38,6 +38,6 @@ public class Switch {
             default:
                 System.out.println("invalid choice");
         }
-
+       sc.close();
     }
 }
