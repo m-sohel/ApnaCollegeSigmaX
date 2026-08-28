@@ -9,5 +9,7 @@ public class Ternary {
      String status = (age >= 18) ? "Adult" : "not adult";
 
      System.out.println(status);
+
+     sc.close();
     }
 }
