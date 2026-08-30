@@ -14,5 +14,6 @@ public class sumofinputs {
         int second_number = sc.nextInt();
 
         System.out.println("your sum of first and the second number is : "+ (first_number+second_number));
+        sc.close();
     }
 }

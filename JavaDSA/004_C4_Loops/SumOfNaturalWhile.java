@@ -15,5 +15,7 @@ public class SumOfNaturalWhile {
             i++; 
         }
          System.out.println("The Sum of the Natural NOs :"+sum);
+        sc.close();
+
     }
 }

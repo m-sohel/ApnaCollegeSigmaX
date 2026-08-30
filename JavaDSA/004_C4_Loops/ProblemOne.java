@@ -13,6 +13,7 @@ public class ProblemOne {
 
         } while (true);
         System.out.println("WARNING!! system is terminated");
+        sc.close();
     }
 
 }

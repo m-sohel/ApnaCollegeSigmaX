@@ -10,5 +10,6 @@ public class input {
 
         String name = sc.next();
         System.out.println("you entered : " + name);
+        sc.close();
     }
 }

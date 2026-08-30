@@ -13,6 +13,8 @@ public class WhileWithInput {
             System.out.print("   ");
             counter++;
         }
+        sc.close();
+
     }
     
 }

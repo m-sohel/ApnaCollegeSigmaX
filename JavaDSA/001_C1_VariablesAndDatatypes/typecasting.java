@@ -9,5 +9,6 @@ public class typecasting {
         int marks2 = (int)marks;
 
         System.out.println(marks2);
+        sc.close();
     }
 }

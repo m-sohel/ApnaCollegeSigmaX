@@ -11,6 +11,8 @@ public class ProblemTwo {
                 continue;
             }
             System.out.println(n);
+        sc.close();
+
         }while(true);
     }
 }

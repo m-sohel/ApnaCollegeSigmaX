@@ -1,4 +1,4 @@
-import java.util.Scanner;
+//import java.util.Scanner;
 
 public class ReverseGivenNo {
     
@@ -14,5 +14,6 @@ public class ReverseGivenNo {
         
         }
         System.out.print(rev);
+        
     }
 }

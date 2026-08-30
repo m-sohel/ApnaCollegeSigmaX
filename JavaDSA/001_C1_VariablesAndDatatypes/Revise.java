@@ -1,9 +1,10 @@
 import java.util.*;
+
 public class Revise {
 
     public static void main(String[] args) {
 
-     Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
 
         System.out.println("enter 1st number");
         int a = sc.nextInt();
@@ -14,12 +15,11 @@ public class Revise {
         System.out.println("enter 3rd number");
         int c = sc.nextInt();
 
-        double average = (a+b+c)/3.0;
+        double average = (a + b + c) / 3.0;
 
-        System.out.println("the average of the entered numbers : "+average);
+        System.out.println("the average of the entered numbers : " + average);
 
-
-
+        sc.close();
 
     }
 }

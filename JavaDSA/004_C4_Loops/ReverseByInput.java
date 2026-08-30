@@ -18,5 +18,7 @@ public class ReverseByInput {
             
         }
         System.out.println();
+        sc.close();
+
     }
 }

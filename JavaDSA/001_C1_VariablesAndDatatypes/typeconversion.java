@@ -7,5 +7,6 @@ public class typeconversion {
         float number = sc.nextInt();
 
         System.out.println(number);
+        sc.close();
     }
 }
