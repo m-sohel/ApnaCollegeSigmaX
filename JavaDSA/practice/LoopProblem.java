@@ -10,6 +10,8 @@ public class LoopProblem {
         System.out.println("enter a bunch of integers");
         System.out.println("to print the sum of evens and odds : ");
         int numbers = sc.nextInt();
+
+        sc.close();
         
         
     }
